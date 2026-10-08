@@ -6,7 +6,7 @@
       "authors": ["ayruki"],
       "description": "izlelan eklentileri için uyumlu TMDB ve Youtube tabanlı katalog",
       "repoUrl": "https://github.com/ayruki",
-      "iconUrl": "https://avatars.githubusercontent.com/u/55096010?v=4",
+      "iconUrl": "https://forum.sinetech.tr/data/avatars/l/28/28479.jpg?1789744475",
       "manifestUrl": "https://katalog.izlelan.com/manifest.json",
       "dependencies": ["plugin-izlelan"]
     },
@@ -16,7 +16,6 @@
       "authors": ["izlemeli"],
       "description": "izlemeli.com Nuvio Kataloğu",
       "repoUrl": "https://github.com/izlemeli",
-      "iconUrl": "https://avatars.githubusercontent.com/u/333019010?v=4",
       "manifestUrl": "https://izlemeli.github.io/nuvio/tr/manifest.json"
     }
   ],
@@ -27,7 +26,6 @@
       "authors": ["izlemeli"],
       "description": "izlemeli.com Nuvio Kolleksiyonları.",
       "repoUrl": "https://github.com/izlemeli",
-      "iconUrl": "https://avatars.githubusercontent.com/u/333019010?v=4",
       "collectionUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections.json"
     }
   ],
@@ -52,7 +50,7 @@
       "authors": ["izlelan"],
       "description": "izlelan kataloğu ile tam uyumlu eklentiler.",
       "repoUrl": "https://github.com/ayruki",
-      "iconUrl": "https://avatars.githubusercontent.com/u/55096010?v=4",
+      "iconUrl": "https://forum.sinetech.tr/data/avatars/l/28/28479.jpg?1789744475",
       "manifestUrl": "https://izlelan.com/manifest.json",
       "supports": {
         "catalog": false,
