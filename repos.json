@@ -6,7 +6,7 @@
       "authors": ["ayruki"],
       "description": "izlelan eklentileri için uyumlu TMDB ve Youtube tabanlı katalog",
       "repoUrl": "https://github.com/ayruki",
-      "iconUrl": "https://forum.sinetech.tr/data/avatars/l/28/28479.jpg?1789744475",
+      "iconUrl": "",
       "manifestUrl": "https://katalog.izlelan.com/manifest.json",
       "dependencies": ["plugin-izlelan"]
     },
@@ -52,7 +52,7 @@
       "authors": ["izlelan"],
       "description": "izlelan kataloğu ile tam uyumlu eklentiler.",
       "repoUrl": "https://github.com/ayruki",
-      "iconUrl": "https://forum.sinetech.tr/data/avatars/l/28/28479.jpg?1789744475",
+      "iconUrl": "",
       "manifestUrl": "https://izlelan.com/manifest.json",
       "supports": {
         "catalog": false,
