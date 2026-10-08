@@ -53,6 +53,7 @@
       "description": "izlelan kataloğu ile tam uyumlu eklentiler.",
       "repoUrl": "https://github.com/ayruki",
       "iconUrl": "https://avatars.githubusercontent.com/u/55096010?v=4",
+      "manifestUrl": "https://izlelan.com/manifest.json",
       "supports": {
         "catalog": false,
         "search": false,
