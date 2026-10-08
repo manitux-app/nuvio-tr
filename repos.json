@@ -122,6 +122,22 @@
         "search": false,
         "comments": false
       }
+    },
+    {
+      "id": "plugin-manitux-cs",
+      "name": "Manitux Cloudstream Eklentileri",
+      "authors": ["manitux"],
+      "description": "Katalog, arama ve yayın desteği sağlayan CS eklentileri.",
+      "repoUrl": "https://github.com/manitux-app/cs-plugins",
+      "iconUrl": "https://avatars.githubusercontent.com/u/201786579?s=200&v=4",
+      "manifestUrl": "https://raw.githubusercontent.com/manitux-app/cs-plugins/refs/heads/main/repo.json",
+      "origin": "Cloudstream",
+      "supports": {
+        "stream": true,
+        "catalog": true,
+        "search": true,
+        "comments": false
+      }
     }
   ]
 }
