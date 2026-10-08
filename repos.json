@@ -77,7 +77,7 @@
      {
       "id": "plugin-wiojelt-wiosinema",
       "name": "Wiojelt WioSinema Eklentileri",
-      "authors": ["Wiojelt"],
+      "authors": ["wiojelt"],
       "description": "Wiojelt Nuvio Eklentileri.",
       "repoUrl": "https://github.com/Wiojelt/Nuvio-Addons",
       "iconUrl": "https://avatars.githubusercontent.com/u/121122059?v=4",
