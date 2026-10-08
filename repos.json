@@ -41,6 +41,7 @@
       "iconUrl": "https://avatars.githubusercontent.com/u/201786579?s=200&v=4",
       "manifestUrl": "https://raw.githubusercontent.com/manitux-app/nuvio-test-plugins/refs/heads/main/manifest.json",
       "supports": {
+        "stream": true,
         "catalog": true,
         "search": true,
         "comments": true
@@ -55,6 +56,7 @@
       "iconUrl": "",
       "manifestUrl": "https://izlelan.com/manifest.json",
       "supports": {
+        "stream": true,
         "catalog": false,
         "search": false,
         "comments": false
@@ -69,6 +71,7 @@
       "iconUrl": "https://forum.sinetech.tr/data/avatars/l/0/899.jpg?1777920089",
       "manifestUrl": "https://raw.githubusercontent.com/patr0nq/nuvioaddons/refs/heads/main/manifest.json",
       "supports": {
+        "stream": true,
         "catalog": false,
         "search": false,
         "comments": false
@@ -83,6 +86,7 @@
       "iconUrl": "https://avatars.githubusercontent.com/u/121122059?v=4",
       "manifestUrl": "https://raw.githubusercontent.com/Wiojelt/Nuvio-Addons/main/manifest.json",
       "supports": {
+        "stream": true,
         "catalog": false,
         "search": false,
         "comments": false
@@ -97,6 +101,7 @@
       "iconUrl": "https://avatars.githubusercontent.com/u/121122059?v=4",
       "manifestUrl": "https://raw.githubusercontent.com/Wiojelt/Nuvio-Addons/main/wiocinema/manifest.json",
       "supports": {
+        "stream": true,
         "catalog": false,
         "search": false,
         "comments": false
@@ -112,6 +117,7 @@
       "iconUrl": "https://avatars.githubusercontent.com/u/121122059?v=4",
       "manifestUrl": "https://raw.githubusercontent.com/Wiojelt/Nuvio-Addons/live/wiospor/manifest.json",
       "supports": {
+        "stream": true,
         "catalog": false,
         "search": false,
         "comments": false
