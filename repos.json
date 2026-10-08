@@ -50,7 +50,7 @@
     {
       "id": "plugin-izlelan",
       "name": "izlelan Eklentileri",
-      "authors": ["izlelan"],
+      "authors": ["ayruki"],
       "description": "izlelan kataloğu ile tam uyumlu eklentiler.",
       "repoUrl": "https://github.com/ayruki",
       "iconUrl": "",
@@ -95,7 +95,7 @@
     {
       "id": "plugin-wiojelt-wiocinema",
       "name": "Wiojelt WioSinema Eklentileri",
-      "authors": ["Wiojelt"],
+      "authors": ["wiojelt"],
       "description": "Wiojelt Nuvio Eklentileri.",
       "repoUrl": "https://github.com/Wiojelt/Nuvio-Addons",
       "iconUrl": "https://avatars.githubusercontent.com/u/121122059?v=4",
@@ -111,7 +111,7 @@
     {
       "id": "plugin-wiojelt-wiospor",
       "name": "Wiojelt WioSpor Eklentileri",
-      "authors": ["Wiojelt"],
+      "authors": ["wiojelt"],
       "description": "Wiojelt Nuvio Eklentileri.",
       "repoUrl": "https://github.com/Wiojelt/Nuvio-Addons",
       "iconUrl": "https://avatars.githubusercontent.com/u/121122059?v=4",
