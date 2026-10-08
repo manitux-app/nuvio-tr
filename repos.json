@@ -16,6 +16,7 @@
       "authors": ["izlemeli"],
       "description": "izlemeli.com Nuvio Kataloğu",
       "repoUrl": "https://github.com/izlemeli",
+      "iconUrl": "",
       "manifestUrl": "https://izlemeli.github.io/nuvio/tr/manifest.json"
     }
   ],
@@ -26,6 +27,7 @@
       "authors": ["izlemeli"],
       "description": "izlemeli.com Nuvio Kolleksiyonları.",
       "repoUrl": "https://github.com/izlemeli",
+      "iconUrl": "",
       "collectionUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections.json"
     }
   ],
